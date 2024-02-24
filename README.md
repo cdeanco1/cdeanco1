@@ -6,7 +6,7 @@
 <h2>📜Certifications</h2>
 
 - [Google IT Support Professional](https://www.credly.com/badges/c1699e82-a270-4029-b1e8-9b3895104871/public_url)
-- [CompTia A+ Certification](https://www.credly.com/badges/6e0ad37e-d6b5-4f2a-b4e1-25d061a5b7c6/public_url)
+- [CompTIA A+ Certification](https://www.credly.com/badges/6e0ad37e-d6b5-4f2a-b4e1-25d061a5b7c6/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
